@@ -1,6 +1,6 @@
 # 2.1 Timelines
 
-You can define various timelines, select a template for it (see also [Templates](2admin_templates.md)) and add items (see also [Items](2admin_items.md).
+You can define various timelines, select a template for it (see also [Templates](2admin_templates.md)) and add items (see also [Items](2admin_items.md)).
 
 #### 2.1.1 List timelines
 On the dashboard tab 'Timelines' you see a list of the existing timelines.

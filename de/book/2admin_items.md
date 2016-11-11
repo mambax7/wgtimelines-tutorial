@@ -1,4 +1,4 @@
-# 2.2 Mitglieder
+# 2.2 Einträge
 
 Sie können beliebig viele Einträge definieren, die Sie einer bestimmten Zeitreihe zuweisen.
 

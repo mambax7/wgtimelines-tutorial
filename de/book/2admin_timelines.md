@@ -1,6 +1,6 @@
 # 2.1 Zeitreihen
 
-Sie können beliebig viele Zeitreihen erstellen, diese einer bestimmten Vorlage zuweisen (siehe auch [Vorlagen](2admin_templates.md)) und die Inhaltseinträge hinzufügen (siehe auch [Einträge](2admin_items.md).
+Sie können beliebig viele Zeitreihen erstellen, diese einer bestimmten Vorlage zuweisen (siehe auch [Vorlagen](2admin_templates.md)) und die Inhaltseinträge hinzufügen (siehe auch [Einträge](2admin_items.md)).
 
 #### 2.1.1 Liste der Zeitreihen
 Auf den Registerblatt 'Zeitreihen' sehen Sie eine Auflistung aller bereits existierenden Zeitreihen oder Chroniken.
