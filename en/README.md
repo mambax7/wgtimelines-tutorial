@@ -1,12 +1,12 @@
 ### _XOOPS Documentation Series_
-![logoXoops.jpg](assets/logoXoops.jpg)
+![](assets/logoXoops.jpg)
 
 # Module wgTimelines
 #### Version: 1.00 RC1
 #### for XOOPS 2.5.7/XOOPS 2.5.8
 #### for PHP 5.5, 5.6 and 7.0
 
-![logoModule.png](assets/logoModule.png)
+![](assets/logoModule.png)
             
 ## User Manual
 
@@ -36,7 +36,7 @@ Allmost all templates on user side are fully responsive.
 * [Templates](book/7templates.md)
 * [Module Credits](book/9credits.md)
 
-##License:
+## License:
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Unless specified, this content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
